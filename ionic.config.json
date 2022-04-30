@@ -1,0 +1,7 @@
+{
+  "name": "agarwalHR",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
